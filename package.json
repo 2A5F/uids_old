@@ -1,0 +1,14 @@
+{
+  "name": "uids",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "num2str": "^2.0.0"
+  }
+}
